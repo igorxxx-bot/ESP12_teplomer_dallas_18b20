@@ -1,0 +1,1 @@
+# ESP12_teplomer_dallas_18b20
